@@ -1,0 +1,365 @@
+TAREAS A REALIZAR EN EL PROYECTO
+
+1- Crear el repositorio en GITHUB: playlist
+2- Clonamos el repositorio en visual studio code
+3- Dar un nombre a la playlist
+4- Buscar 10 canciones de la playlist con sus letras y sus imagenes
+5- Creo las carpetas necesarias assets/img assets/audio
+6- Seleccionar paletas de colores. Elegir 2 paletas de colores.
+7- Empezar a construir en index.html
+8- Crear columnas que contengan canciones, artista, album y duracion.
+
+Canciones:
+
+1-Mujer amante.
+iento el calor de toda tu piel
+En mi cuerpo otra vez
+Estrella fugaz, enciende mi sed
+Misteriosa mujer
+Con tu amor sensual, cuánto me das
+Haz que mi sueño sea una verdad
+Dame tu alma hoy, haz el ritual
+Llévame al mundo donde pueda soñar
+Uh
+Debo saber si en verdad
+En algún lado estás
+Voy a buscar una señal
+Una canción
+Uh
+Debo saber si en verdad
+En algún lado estás
+Solo el amor que tú me das
+Me ayudará
+Al amanecer, tu imagen se va
+Misteriosa mujer
+Dejaste en mí lujuria total
+Hermosa y sensual
+Corazón sin Dios, dame un lugar
+En ese mundo tibio, casi irreal
+Deberé buscar una señal
+En aquel camino por el que vas
+Uh
+Debo saber si en verdad
+En algún lado estás
+Voy a buscar una señal
+Una canción
+Uh
+Debo saber si en verdad
+En algún lado estás
+Solo el amor que tú me das
+Me ayudará
+Tu presencia marcó en mi vida el amor lo sé
+Es difícil pensar en vivir ya sin vos
+Corazón sin Dios, dame un lugar
+En ese mundo tibio, casi irreal
+Uh
+Debo saber si en verdad
+En algún lado estás
+Voy a buscar una señal
+Una canción
+Uh
+Debo saber si en verdad
+En algún lado estás
+Solo el amor que tú me das
+Me ayudará
+
+2-Me gustas mucho.
+
+Nos conocimos bailando en un bar
+Tus piernas volaban, las sabías llevar
+A mí me gustaba como las movías
+Y juntos nos fuimos a pernoctar
+Es que me gustas mucho
+Me gustas mucho
+Me gustas mucho
+Me gustas mucho
+Me gusta como te vestís y como andas
+Me gusta tu pelo, tu cuerpo
+Me gustaría poderte bañar
+También secarte
+Y volverte a enjuagar
+Porque me gustas mucho
+Me gustas mucho, nena
+Me gustas mucho
+Me gustas mucho, nena
+Y será que me gustas tanto
+Debe ser que
+No puedo disimular
+De veras, ja
+¡Me gustas mucho!
+¡Me gustas mucho, nena!
+Será que me gustas tanto
+Pero tanto
+¡Me gustas mucho, nena!
+Y porque me gustas tanto
+Debe ser que
+Nunca te voy a olvidar
+
+3-Cuando estes acà.
+
+Cuando está acá, tendrás tu espacio
+Y una frágil forma de existir
+Con verte nacer ¿cómo hay quien puede ver
+Un mundo para destruir?
+Ojos que no ven, corazones que no sienten
+Y vos que estás por venir
+A cada instante habrá un flor
+Y en cada flor habrá un instante
+En que la vida se desnude
+Ante esos ojos necios
+Cuando está acá tendrás tu tiempo
+El mismo que no tiene fin
+¿en un mundo así, donde está tu lugar
+Quién puede el agua pudrir?
+Ojos que no ven, corazones que no sienten
+Y vos que estás por venir
+Cuando está acá, tendrás tu espacio
+Tu tiempo y algo por qué luchar
+Al verte crecer y hacerte fuerte
+¿quién más le puede temer?
+A esos ojos que no ven, corazones que no sienten
+Si vos ya estás acá
+
+4-Un angel para tu soledad.
+
+Ya sufriste cosas mejores que estas
+Y vas a andar esta ruta hoy cuando anochezca
+Tu esqueleto te trajo hasta aquí
+Con un cuerpo hambriento, veloz
+Y aquí ¡gracias a Dios!, uno no cree en lo que oye
+Ángel de la soledad
+Y de la desolación
+Preso de tu ilusión vas a bailar
+A bailar, bailar
+Es tan simple así no podés elegir
+Claro que no siempre ¿Ves?, resulta bien
+Atado con doble cordel el de simular
+No querés girar maniatado
+Querés faulear
+Y arremolinar, ¡oh no!
+Medís tu acrobacia y saltás
+Tu secreto es
+La suerte del principiante
+No puede fallar
+Alguna vez, quizás, se te va la mano
+Y las llamas en pena invaden tu cuerpo
+Y caes en manos del ángel de la soledad
+Y él ¡gracias a Dios!, tampoco cree en lo que oye
+Ángel de la soledad
+Y de la desolación
+Preso de tu ilusión vas a bailar
+A bailar, bailar
+Por mis pena baila
+Y por tu soledad
+
+5-El final es donde parti.
+
+Déjame ver que hay para saborear esta vuelta
+La carta no está siempre a tu alcance en los matutinos
+Loco de pensar que se dispute el poder why la gloria
+Why con el frío de un reino las almas congelar
+Cuánta verdad, cuánta mentira why cuántas palabras
+Why todo ese motor para devastar tu inconciente
+Why en qué lugar habrá consuelo para mi locura
+Esta ironía con que se cura,
+Si el final es en donde partí
+Why a quién llamar,
+A quién golpearle la puerta tan tarde
+Si esta noche no puedo dormir
+Déjame ver que hay para saborear esta vuelta
+La verdad, la mentira why la mueca de tu ingenuidad
+Cuántas palabras se disputan el poder why la gloria
+Why cuántas vidas se pierden en el frío de un reino mortal
+Loco de pensar, queriendo entrar en razón why el corazón
+Tiene razones que la propia razón nunca entenderá
+Why a dónde voy, siempre voy a buscar lo que es mío
+Aunque el planeta termine en un círculo
+Why el final es en donde partí
+No llores más, dame la mano contame tu suerte
+De esta manera quizás no sea la muerte,
+La que nos logre apagar el dolor
+(solo de guitarra)
+Why en qué lugar habrá consuelo para mi locura
+Esta ironía con que se cura,
+Si el final es en donde partí
+No llores más, dame la mano contame tu suerte
+De esta manera quizás no sea la muerte,
+La que nos logre apagar el dolor.
+
+6-Muchacha (Ojos de Papel).
+
+Muchacha ojos de papel
+¿A dónde vas? Quédate hasta el alba
+Muchacha pequeños pies
+No corras más, quédate hasta el alba
+Sueña un sueño despacito entre mis manos
+Hasta que por la ventana suba el sol
+Muchacha piel de rayón
+No corras más, tu tiempo es hoy
+Y no hables más muchacha
+Corazón de tiza
+Cuando todos duerman
+Te robaré un color
+Y no hables más muchacha
+Corazón de tiza
+Cuando todos duerman
+Te robaré un color
+Muchacha, voz de gorrión
+¿A dónde vas? Quédate hasta el día
+Muchacha, pechos de miel
+No corras más, quedate hasta el día
+Duerme un poco y yo entre tanto construiré
+Un castillo en tu vientre hasta que el sol
+Muchacha, te haga reír
+Hasta llorar, hasta llorar
+Y no hables más muchacha
+Corazón de tiza
+Cuando todos duerman
+Te robaré un color
+Y no hables más muchacha
+Corazón de tiza
+Cuando todos duerman
+Te robaré un color.
+
+7-Un poco de amor frances.
+
+Una tipa rapáz
+Como te gusta a vos
+Esa tipa vino a consolarte
+Un poco de amor francés
+No muerde su lengua, no
+No es sincera, pero te gusta oírla
+Es una linda ración
+Con un defecto, con uno o dos
+Y es un cocktel que no se mezcla solo
+Quiere, si quiere más
+Ya no la engatuzás
+Es una copa de lo mejor
+Cuando se ríe
+Quiere, si quiere más
+Ya no la engatuzás
+Es una copa de lo mejor
+Cuando se ríe
+"El lujo es vulgaridad" dijo
+Y me conquistó
+De esa miel no comen las hormigas
+Una tipa rapáz
+Como te gusta a vos
+Esa tipa vino a consolarte
+Quiere, si quiere más
+Ya no la engatuzás
+Es una copa de lo mejor
+Cuando se ríe.
+
+8-El revelde.
+
+Soy el que nunca aprendió
+desde que nació
+cómo debe vivir el humano
+llegué tarde, el sistema ya estaba enchufado
+así funcionando.
+Siempre que haya reunión
+será mi opinión
+la que en familia desate algún bardo
+no puedo acotar, está siempre mal
+la vida que amo.
+Caminito al costado del mundo
+por ahí he de andar
+buscándome un rumbo
+ser socio de esta sociedad me puede matar.
+why me gusta el rock, el maldito rock
+siempre me lleva el diablo, no tengo religión
+quizá éste no era mi lugar
+pero tuve que nacer igual.
+No me convence ningún tipo de política
+ni el demócrata, ni el fascista
+porque me tocó ser así
+ni siquiera anarquista.
+Yo veo todo al revés, no veo como usted
+yo no veo justicia, sólo miseria why hambre
+o será que soy yo que llevo la contra
+como estandarte.
+Perdónenme pero soy así soy, yo no sé por qué
+se que hay otros también
+es que alguien debía de serlo, que prefiera la rebelión
+a vivir padeciendo.
+
+9-Seminare.
+
+Quiero ver, quiero entrar
+Nena, nadie te va a hacer mal
+Excepto amarte
+Vas aquí, vas allá
+Pero nunca te encontrarás
+Al escaparte
+No hay fuerza alrededor
+No hay pociones para el amor
+¿Dónde estás? ¿Dónde voy?
+Porque estamos en la calle
+De la sensación, muy lejos del sol
+Que quema de amor
+Te doy pan, quieres sal
+Nena, nunca te voy a dar
+Lo que me pides
+Te doy Dios, quieres más
+¿Es que nunca comprenderás
+A un pobre pibe?
+Esas motos que van a mil
+Solo el viento te hará sentir
+Nada más, nada más
+Si pudieras olvidar tu mente frente a mí
+Sé que tu corazón
+Diría que sí
+No hay fuerza alrededor
+No hay pociones para el amor
+¿Dónde estás? ¿Dónde voy?
+Porque estamos en la calle
+De la sensación, muy lejos del sol
+Que quema de amor
+Muy lejos del sol
+Que quema de amor.
+
+10-Demoliendo hoteles.
+
+Yo tengo plata
+¡Uoh!, yo que crecí con Videla
+Yo que nací sin poder
+Yo que luché por la libertad, pero ahora la puedo tener, oh
+Te pueden matar también, pero, ¡ja!
+Yo que crecí entre fachistas
+Yo que morí en el altar
+Pero a la noche estaba todo mal
+Hoy paso el tiempo
+(Demoliendo hoteles)
+Mientras los plomos juntan los cables, cazan rehenes
+Hoy paso el tiempo
+(Demoliendo hoteles)
+Mientras las chicas allá en la esquina pegan carteles
+Yo fui educado con odio
+Y odiaba la humanidad, bueno, todavía odio a la humanidad
+Un día me fui con los hippies y tuve un amor y tambíen mucho más
+Ahora no estoy más tranquilo, ¡no!
+¿Y por qué tendría que estar?
+Todos vivimos sin aprender
+Y todo el tiempo he sido yo un anormal
+Ahora, demoliendo hoteles
+Uoh-oh
+Demoliendo hoteles
+Mientras los chicos allá en la esquina pegan carteles
+Voy a ir al piano, ¿qué?, es más light
+¡Rock and roll!
+Demoliendo hoteles
+Demoliendo hoteles
+Demoliendo hoteles
+Demoliendo hoteles
+Demoliendo hoteles
+Demoliendo hoteles
+Demoliendo hoteles
+Demoliendo hoteles, ¡vamo', al mango!
+¡Demoliendo hoteles!
+¡Demoliendo hoteles!
+
+colores a usar:
+fondo de tabla: 2E4372
+color de letra: 7788AA
+color de fondo de la tabla: 061639

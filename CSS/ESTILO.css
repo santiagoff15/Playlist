@@ -1,0 +1,31 @@
+/* HEADER */
+
+
+/* MAIN*/
+table {
+    background-color: #2E4372;
+    color: #7788AA;
+    width: 75%;
+    border-color: black;
+    border-top: 10px;
+    border-style: solid;
+}
+td {
+    background-color: #061639;
+    border-color: black;
+    border-bottom: 10px;
+    border-style: solid;
+    text-align: center;
+}
+body {
+    background-color: chocolate;
+}
+main {
+    display: flex;
+    justify-content: center;
+}
+/* FOOTER */
+footer{
+    text-align: center;
+    height: 150px;
+}

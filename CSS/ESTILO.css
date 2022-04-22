@@ -1,5 +1,11 @@
 /* HEADER */
-
+header {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: #749be9;
+}
 
 /* MAIN*/
 p { 
@@ -22,6 +28,11 @@ td {
 }
 body {
     background-color: white;
+    background-image: url(https://img.freepik.com/vector-gratis/fondo-escritorio-flores-vector-lindo_53876-136877.jpg?size=626&ext=jpg&ga=GA1.2.1378465921.1638662400);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #7788AA;
+    background-attachment: fixed;
 }
 main {
     display: flex;
@@ -32,8 +43,13 @@ main {
 h1 {
     text-align: center;
 }
+p {
+    color: black;
+}
 /* FOOTER */
 footer{
     text-align: center;
     height: 150px;
+    background-color: #749be9;
 }
+
